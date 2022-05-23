@@ -1,0 +1,64 @@
+body{
+    background-color: #ccc;
+}
+.body{
+    margin: 8%;
+    
+}
+.li:hover{
+    color: #ccc;
+}
+.nav-lin{
+    color: #ccc;
+}
+.fondo-nav{
+    background-color: black;
+}
+
+.navbar{
+    padding: 20px;
+}
+
+.orientacion-nav{
+    justify-content: space-between;
+}
+.li{
+    margin: 15px;
+    color:white;
+}
+.logo{
+    margin-left: 30px;
+}
+.espacio-uno{
+    display: flex; 
+    justify-content: center;
+}
+.mejor-opcion{
+    margin-top: 100px;
+    justify-content: center;
+
+}
+.puntos-clave{
+    margin: 85px;
+}
+.nuestros-planes{
+    margin-top: 100px;
+}
+.asociados{
+    margin-top: 100px;
+}
+.footer{
+    color: white;
+    background-color: #232323;
+}
+.tit{
+    font-size: 17px;
+    font-weight: bold;
+    color: #ccc;
+    margin: 0 0 20px
+}
+.text{
+    font-size: 12px;
+    color: rgb(169, 168, 168);
+
+}
